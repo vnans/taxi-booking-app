@@ -24,7 +24,7 @@ const  DestinationSearch = () => {
         console.log(data, details);
       }}
       query={{
-        key: 'AIzaSyDB2Aym0WvuvxKrcXGNnmMrOSi2mukwbyw',
+        key: '_API_KEY_',
         language: 'en',
       }}
       styles={{
@@ -40,7 +40,7 @@ const  DestinationSearch = () => {
         console.log(data, details);
       }}
       query={{
-        key: 'AIzaSyDB2Aym0WvuvxKrcXGNnmMrOSi2mukwbyw',
+        key: '_API_KEY_',
         language: 'en',
       }}
       styles={{
